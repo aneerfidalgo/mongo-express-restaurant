@@ -1,4 +1,4 @@
-require(dotenv / config);
+require("dotenv/config");
 const express = require("express");
 const mongo = require("mongodb").MongoClient;
 const cors = require("cors");
